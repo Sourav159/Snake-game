@@ -1,0 +1,33 @@
+// ITEMS
+BITMAP, snake, snake.png
+BITMAP, apple, apple.png
+BITMAP, orange, orange.png
+BITMAP, strawberry, strawberry.png
+BITMAP, banana, banana.png
+BITMAP, stone, stone.png
+BITMAP, cherry, cherry.png
+BITMAP, grapes, grapes.png
+BITMAP, guava, guava.png
+BITMAP, heart, heart.png
+
+//BARS
+BITMAP, empty, empty.png
+BITMAP, red_bar, red_bar.png
+
+//BACKGROUND
+BITMAP, grass, grass_background.jpg
+
+//SOUNDS
+SOUND, fruit_sound, fruit.wav
+SOUND, game_over_sound, game_over.wav
+SOUND, health_sound, health.wav
+SOUND, game_over_voice, game_over_voice.wav
+
+//FONTS
+FONT, helvetica, Helvetica.otf
+FONT, helvetica_bold, Helvetica_bold.otf
+
+
+//OTHER
+BITMAP, game_over, game_over.png
+BITMAP, press_enter, press_enter.png
