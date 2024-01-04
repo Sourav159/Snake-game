@@ -15,6 +15,8 @@ Hearts increase your health.
 The game ends if the snake goes out of bounds or runs out of health.
 Watch a screencast of the game demonstration here and the code demonstration here.
 
+Watch a screencast of the game demonstration [here](https://video.deakin.edu.au/media/t/0_6x3eoke1) and the code demonstration [here](https://video.deakin.edu.au/media/t/0_o8ukcybv).
+
 ## Code Structure: 
 
 ### program.cpp:
